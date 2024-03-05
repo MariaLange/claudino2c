@@ -1,2 +1,14 @@
 body{ background-color: rgb(137, 43, 226);
-color: brown;}
+color: rgb(165, 42, 124);
+font-size: 40px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+justify-content: baseline;
+justify-items: auto;
+text-align: center;
+
+text-align: center;
+}
+
+.imagem-cabecalho{
+    width: 5px;
+}
