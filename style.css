@@ -1,14 +1,31 @@
-body{ background-color: rgb(137, 43, 226);
-color: rgb(165, 42, 124);
-font-size: 40px;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-justify-content: baseline;
-justify-items: auto;
-text-align: center;
+body {bC: rg(0, 255, 68);
+    color: blue(15, 14, 15);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+} .imagem-cabecalho{width: 200px;}
 
-text-align: center;
+.titulocabecalho
+{display: inline-block;
+  margin:0 16px;
+  padding: 100px 0;
+  font-size: 40px;}
+  .cabecalho
+{
+  background-color: blueviolet;
+color: deeppink;
+display: flex;
+justify-content: space-around;
+padding: 24px 0;
+}
+.cabecalhoitem{
+  display: inline-block;
+  margin: 0 16px;
+  padding: 24px 20px;
+  font-size: 24px;
 }
 
-.imagem-cabecalho{
-    width: 5px;
-}
+
+
