@@ -1,5 +1,6 @@
-body {bC: rg(0, 255, 68);
-    color:yellow (15, 14, 15);
+
+body { background-color: rgb(0, 255, 68);
+    color: rgb(15, 15, 14);
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     justify-content: center;
@@ -11,21 +12,27 @@ body {bC: rg(0, 255, 68);
 {display: inline-block;
   margin:0 16px;
   padding: 100px 0;
-  font-size: 40px;}
-  .cabecalho
-{
-  background-color: blueviolet;
-color: deeppink;
-display: flex;
-justify-content: space-around;
+  font-size: 40px;} 
+  .cabecalho{
+    background-color: blue;
+    color: aqua;
+    display: flex;
+    justify-content:space-around;
+    padding: 24px 0;
+  }
+  .cabecalho-item
+{display:inline-block;
+margin:0 16px;
 padding: 24px 0;
-}
-.cabecalhoitem{
-  display: inline-block;
-  margin: 0 16px;
-  padding: 24px 20px;
-  font-size: 24px;
-}
+font-size:24px
+  }
 
-
-
+  .escola{
+  background-image: linear-gradient(red pink);
+  color: blueviolet;
+  display: flex;
+justify-content: 
+aling-itens:center;
+padding: 24px 0;}
+]
+  
